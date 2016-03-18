@@ -3,7 +3,7 @@ namespace Reflexions\DockerLaravel;
 
 class DockerApplication extends \Illuminate\Foundation\Application
 {
-	/**
+    /**
      * Get the path to the storage directory.
      *
      * @return string
